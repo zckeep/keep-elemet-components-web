@@ -1,0 +1,1 @@
+import{_ as o,a as c,o as n,e as t,f as s}from"./index-DJDP3Yxi.js";const r={};function _(a,m){const e=c("m-choose-city");return n(),t("div",null,[s(e)])}const i=o(r,[["render",_]]);export{i as default};

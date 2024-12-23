@@ -1,0 +1,1 @@
+import{d as a,a as s,o as c,c as r}from"./index-DJDP3Yxi.js";const p=a({__name:"index",setup(_){const o=e=>{console.log(e,"startChange")},n=e=>{console.log(e,"endChange")};return(e,m)=>{const t=s("m-choose-time");return c(),r(t,{onStartChange:o,onEndChange:n})}}});export{p as default};

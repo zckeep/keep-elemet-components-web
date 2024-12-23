@@ -1,0 +1,1 @@
+import{d as n,r as a,a as i,o as l,c as r,w as p,b as c}from"./index-DJDP3Yxi.js";const f=n({__name:"index",setup(m){const o=a(!1);return(_,e)=>{const s=i("m-choose-icon");return l(),r(s,{title:"选择图标",visible:o.value,"onUpdate:visible":e[0]||(e[0]=t=>o.value=t)},{default:p(()=>e[1]||(e[1]=[c(" 选择图标 ")])),_:1},8,["visible"])}}});export{f as default};
